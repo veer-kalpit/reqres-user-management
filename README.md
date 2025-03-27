@@ -19,6 +19,8 @@ This is a simple **React application** that allows users to **log in, view a lis
 
 ## 📂 Project Structure
 
+```sh
+
 /user-management-app 
 │── /src
 │ ├── /components 
@@ -33,6 +35,7 @@ This is a simple **React application** that allows users to **log in, view a lis
 │── package.json 
 │── README.md
 
+```
 
 ## Available Scripts
 
@@ -46,15 +49,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+## Authentication 
 
-
-### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/veer-kalpit/user-management-app.git
-cd user-management-app
 
-
-### Authentication  
-```sh
 Email : eve.holt@reqres.in
 Password : cityslicka
+
+```
